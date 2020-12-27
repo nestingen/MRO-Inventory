@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## MRO Inventory Analysis
 
-You can use the [editor on GitHub](https://github.com/nestingen/DSC-680-MRO-Inventory/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nestingen/DSC-680-MRO-Inventory/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For, manufacturing companies, Maintenance, Repair, and Operations Inventory can be a large expense. This inventory group is known as MRO Inventory. These parts are used to maintain and repair the machines that are used in the manufacturing process as well as equipment needed to preform the operations. This could include motors, screws, or personal protective equipment (PPE). Inventory must be watched because there is a cost of too high or low of levels. When Inventory is too high, too much money is tied up in parts. This means the capital cannot be used elsewhere in the business. When inventory is too low, a machine repair could lead to costly down time. In this project, I investigated why inventory is changing at 30 plants across a company. By slicing the data different ways, I was able to pinpoint why inventory was increasing or decreasing at a plant. I used Qlik Sense to perform this analysis. Qlik Sense is a BI tool like Tableau. This tool is used company wide and everyone has access to this analysis. Storeroom managers can use this report to explain MRO Inventory Changes. I focused on March 2020 to December 2020 to do a different dive into the analysis. 
