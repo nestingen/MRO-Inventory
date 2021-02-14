@@ -4,4 +4,8 @@ For, manufacturing companies, Maintenance, Repair, and Operations Inventory can 
 
 My Presentation on this topic can be found on YouTube [here](https://youtu.be/gbPulHzXi8I)
 
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/54515596/107891066-f4482d80-6ee1-11eb-9cec-aaa8b6ca3194.png" width ="700">
+</p>
+
 **[Click to Go Back to Homepage](https://nestingen.github.io/)**
